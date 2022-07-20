@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/heroListFragment"
+        android:enabled="true"
+        android:title="@string/hero_list"/>
+    <item
+        android:id="@+id/heroAddFragment"
+        android:enabled="true"
+        android:title="@string/hero_add"/>
+</menu>
